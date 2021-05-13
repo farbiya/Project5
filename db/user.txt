@@ -1,0 +1,13 @@
+===Database consumeapi
+
+== Table structure for table user
+
+|------
+|Column|Type|Null|Default
+|------
+|//**id**//|int(12)|No|
+|emailaddress|varchar(255)|No|
+|password|varchar(255)|No|
+|username|varchar(255)|No|
+== Dumping data for table user
+

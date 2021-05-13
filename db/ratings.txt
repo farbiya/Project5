@@ -1,0 +1,13 @@
+===Database consumeapi
+
+== Table structure for table ratings
+
+|------
+|Column|Type|Null|Default
+|------
+|//**id**//|int(11)|No|
+|movie_id|int(11)|No|
+|rating|int(11)|No|
+|user_id|int(11)|No|
+== Dumping data for table ratings
+
